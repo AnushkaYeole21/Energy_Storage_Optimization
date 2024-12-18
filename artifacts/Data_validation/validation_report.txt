@@ -1,0 +1,10 @@
+Validation Report:
+
+Storage Level Validation:
+Within Capacity: True
+
+Non-Negative Energy Waste Validation:
+Non-Negative Waste: True
+
+Non-Negative Grid Supply Validation:
+Non-Negative Supply: True
